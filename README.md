@@ -1,1 +1,1 @@
-# educational-project-3
+# SnowTest (WIP)
